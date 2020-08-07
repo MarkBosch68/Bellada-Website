@@ -1,6 +1,5 @@
-# Garden Pool Website
-Pool Website - https://garden-pool.com
+# BELLADA Pool Website
+Pool Website - markbosch68.github.io/bellada-website/
 
-## This is a blockchain project - I created a stake pool for Cardano, a 3rd generation cryptocurrency.
-
+## This is a BELLADA blockchain project.
 
